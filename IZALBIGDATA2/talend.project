@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_TC24Mb14Eei_LeY0vomIOA" label="IzalBigData2" description="" language="java" technicalLabel="IZALBIGDATA2" creationDate="2018-09-21T23:30:56.000+0700" author="_TC24Mr14Eei_LeY0vomIOA" productVersion="Talend Data Fabric-7.0.1.20180411_1414" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/cdttech/BigData-2.git&quot;,&quot;login&quot;:&quot;cdttech&quot;,&quot;passwd&quot;:&quot;1ZV6FI0tQFh5wD2DQ9V+5w==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM"/>
+  <TalendProperties:User xmi:id="_TC24Mr14Eei_LeY0vomIOA" login="izal@cdt.com" firstName="izal" lastName="izal" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
